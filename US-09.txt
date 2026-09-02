@@ -1,0 +1,11 @@
+User Story: US-09
+Title: Community Feed & Donation Stories
+Priority: Medium
+Assigned Member: Khandakar Abu Noman Omi (24-57272-2)
+
+Description:
+As a community member, I want to post and view donation camp updates, milestone announcements, and success stories in a shared feed.
+
+Acceptance Criteria:
+1. Users can publish posts with images and text descriptions.
+2. Community area supports likes and comments.

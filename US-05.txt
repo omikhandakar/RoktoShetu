@@ -1,0 +1,11 @@
+User Story: US-05
+Title: Matched Donor Listing
+Priority: High
+Assigned Member: Khandakar Abu Noman Omi (24-57272-2)
+
+Description:
+As a requester, I want to view a real-time list of compatible nearby donors so that I can contact them directly.
+
+Acceptance Criteria:
+1. Calculates and displays donor distance (e.g., 1.2 km away).
+2. Displays donor verification badge and availability status.
