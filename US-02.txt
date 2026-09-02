@@ -1,0 +1,12 @@
+User Story: US-02
+Title: NID Verification
+Priority: High
+Assigned Member: Adnan Ahmed Adeeb (24-57275-2)
+ 
+Description:
+As a user, I want to submit my NID details (NID number, DOB, front NID photo, and live selfie) so that I can obtain a Verified status and participate as a donor or requester.
+ 
+Acceptance Criteria:
+1. System accepts NID number, full name, date of birth, and front image.
+2. System captures live selfie for match verification.
+3. Verified label is applied upon approval while keeping NID data hidden from public view.

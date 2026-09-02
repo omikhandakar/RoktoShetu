@@ -1,0 +1,11 @@
+User Story: US-07
+Title: Blood Bank & Hospital Facility Search
+Priority: High
+Assigned Member: Adnan Ahmed Adeeb (24-57275-2)
+ 
+Description:
+As a user, I want to search for blood banks and hospitals across all 64 districts of Bangladesh so that I can locate stored blood quickly during emergencies.
+ 
+Acceptance Criteria:
+1. Directory allows filtering by district, upazila, and facility name.
+2. Display detailed contact info, address, and verification badge.

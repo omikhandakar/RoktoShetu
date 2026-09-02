@@ -1,0 +1,11 @@
+User Story: US-08
+Title: Blood Stock Inventory Management
+Priority: High
+Assigned Member: Adnan Ahmed Adeeb (24-57275-2)
+ 
+Description:
+As a blood bank or hospital staff member, I want to update blood unit inventory by blood group so that Requesters can view real-time stock levels.
+ 
+Acceptance Criteria:
+1. Staff interface supports updating available units for A+, A-, B+, B-, AB+, AB-, O+, and O-.
+2. Stock levels are publicly visible on facility search pages.
