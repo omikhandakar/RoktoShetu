@@ -1,0 +1,12 @@
+User Story: US-04
+Title: Emergency Blood Request Creation
+Priority: High
+Assigned Member: Khandakar Abu Noman Omi (24-57272-2)
+
+Description:
+As a requester, I want to submit an emergency request specifying blood group, bags needed, hospital location, required time, urgency level (Normal/Critical), and prescription attachment so that nearby donors can be alerted.
+
+Acceptance Criteria:
+1. Form captures required blood group, number of bags, location, and deadline.
+2. Allows attaching a prescription photo.
+3. Broadcasts push alerts to verified donors within the target area.

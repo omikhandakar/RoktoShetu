@@ -1,0 +1,11 @@
+User Story: US-06
+Title: Donor Request Response & Direct Contact
+Priority: High
+Assigned Member: Khandakar Abu Noman Omi (24-57272-2)
+
+Description:
+As a donor, I want to review incoming emergency requests and respond or initiate direct phone/message contact with the requester.
+
+Acceptance Criteria:
+1. Donor can accept or decline incoming request broadcasts.
+2. Requester can trigger direct call or group message to matched donors.
