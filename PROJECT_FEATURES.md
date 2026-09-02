@@ -1,10 +1,10 @@
 # RoktoShetu — System Features & Requirements
-
+ 
 ## System Scopes
 1. **Scope 1 (Registration & NID Verification):** Identity verification using NID details and live selfie matching.
 2. **Scope 2 (Donor Profile & Matching):** Managing donor availability, location, and blood compatibility.
 3. **Scope 3 (Emergency Request & Notifications):** Real-time emergency blood request broadcasting and donor responses.
-
+ 
 ## Functional Requirements Matrix
 | FR ID | Functional Requirement | User Story Mapping |
 | :--- | :--- | :--- |
