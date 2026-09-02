@@ -1,0 +1,12 @@
+User Story: US-03
+Title: Donor Profile Setup & Availability Toggle
+Priority: High
+Assigned Member: Sayema Saleh Jahan (24-57295-2)
+ 
+Description:
+As a verified donor, I want to maintain my donor profile (blood group, weight, last donation date, present address, emergency call availability) so that the system can match me with compatible requests.
+ 
+Acceptance Criteria:
+1. Profile validates weight eligibility (>= 50 kg).
+2. Selection supported for all 8 major blood groups (A+, A-, B+, B-, AB+, AB-, O+, O-).
+3. Emergency availability toggle allows turning request alerts on or off.
