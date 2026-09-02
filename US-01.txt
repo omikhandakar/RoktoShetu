@@ -1,0 +1,12 @@
+User Story: US-01
+Title: Account Creation & Authentication
+Priority: High
+Assigned Member: Adnan Ahmed Adeeb (24-57275-2)
+ 
+Description:
+As a new user, I want to create an account using my full name, phone number, and password so that I can access the RoktoShetu platform.
+ 
+Acceptance Criteria:
+1. User can register with valid phone number and password.
+2. User can log in to an existing account.
+3. Authentication state is preserved across app sessions.
